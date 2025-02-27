@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Automatic Timetable Generator System<br>🌱 I’m currently learning Machine Learning<br>💬 Pre-final year CSE Student<br>⚡ Looking for Internships
+🔭 I’m currently working on New Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Pre-final year CSE Student<br>⚡ Looking for Internships
 
 
 ## 🌐 Socials:
