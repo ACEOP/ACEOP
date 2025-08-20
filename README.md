@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud based Opertaing System<br>🌱 I’m currently learning Machine Learning<br>💬 Pre-final year CSE Student<br>⚡ Looking for Internships
+🔭 I’m currently working on Dynamic Ai Website Generator <br>🌱 I’m currently learning Machine Learning<br>💬 Final year CSE Student<br>⚡ Looking for Internships & Placements
 
 
 ## 🌐 Socials:
